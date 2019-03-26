@@ -1,5 +1,5 @@
 {
-    "name": "pluggto/php-sigep-fpdf",
+    "name": "varga/php-sigep-fpdf",
     "description": "Unofficial FPDF library - Cópia do FPDF 1.7 usado pelo projeto stavarengo/php-sigep.",
     "license": "MIT",
     "authors": [
